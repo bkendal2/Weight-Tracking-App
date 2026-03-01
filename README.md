@@ -1,53 +1,14 @@
-Weight Tracking Mobile App
+# Weight Tracking Mobile App
 
-Project Overview
+This project demonstrates the complete design and development cycle of a functional Android mobile application. The goal of this app was to create a simple, user-centered weight tracking tool that allows users to log, view, and manage weight entries efficiently. The primary user need addressed by this app is simplicity and clarity. Users want to quickly record weight entries, review their progress, and manage their data without unnecessary steps or confusion. Rather than focusing only on functionality, this project emphasized building a complete product that reflects both technical skills and thoughtful design principles.
 
-This project demonstrates the complete design and development cycle of a functional Android mobile application. The goal of this app was to create a simple, user-centered weight tracking tool that allows users to log, view, and manage weight entries efficiently.
-The primary user need addressed by this app is simplicity. Users want to quickly record weight entries, review their progress, and manage their data without unnecessary steps or confusion. The app was designed to minimize friction while maintaining clean structure and usability.
+To support user needs, the application includes a main screen for entering weight data, a display area for viewing logged entries, and functionality to add and delete entries. Input validation was implemented to prevent empty or incorrect submissions, ensuring the app remains user-friendly and reliable. The UI was designed with visual hierarchy, logical focus order, and grouping in mind. Input fields and buttons are arranged in the natural sequence a user would follow when logging weight, and related components are placed together to reduce cognitive load. The design avoids clutter and keeps the interface clean, which contributes to a smooth and intuitive user experience.
 
-Requirements and Goals
+My approach to development evolved significantly throughout this course. Instead of attempting to build all features at once, I broke the application into manageable components and implemented functionality incrementally. I prioritized core features first, tested them thoroughly, and then layered in additional functionality. I carefully interpreted error messages rather than guessing at solutions, which improved both efficiency and problem-solving skills. I also referenced Android development guidelines and examined similar applications to inform design and structural decisions. These strategies helped create a more stable and organized application and will continue to guide my future development work.
 
-The requirements of this project included:
+Testing was an ongoing process throughout development. Using the Android emulator, I verified that data entry, deletion features, and UI updates functioned correctly. I checked layout alignment, ensured input validation worked as expected, and confirmed that transitions between tasks were intuitive. This process was essential because an app that compiles successfully is not necessarily an app that functions smoothly for users. Testing revealed layout adjustments that were needed and helped refine logic handling, ultimately improving overall usability and stability.
 
-Designing a user-centered UI
-Implementing functional data entry and display features
-Managing user input and preventing invalid data
-Following Android development best practices
-Creating a launch-ready application structure
-The overall goal was not just to make the app run, but to create a complete, functional product that reflects both technical ability and thoughtful design.
-Screens and Features
-To support user needs, the app includes:
-A main screen for entering weight data
-A display area showing logged entries
-Functionality to add and delete entries
-Input validation to prevent incorrect or empty submissions
-A clean and intuitive layout with clear visual hierarchy
-The UI was designed with focus order and grouping in mind. Input fields and action buttons are placed in the order users naturally follow when logging weight. Related elements are grouped together to reduce confusion, and unnecessary clutter was avoided.
-The design was successful because it prioritizes clarity and ease of use. Each screen supports a clear task, and transitions between tasks are simple and logical.
-Development Approach
-My development process evolved throughout this course. Instead of attempting to build everything at once, I broke the app into smaller components and implemented features incrementally.
-Key strategies included:
-Building core functionality first
-Testing each feature before moving forward
-Reading and interpreting error messages carefully
-Keeping layouts modular and organized
-Referencing Android guidelines and similar app designs
-These strategies can be applied to future projects by ensuring that development remains structured, iterative, and user-focused rather than rushed or feature-heavy.
-Testing and Debugging
-Testing occurred continuously throughout development. I used the Android emulator to:
-Verify data entry functionality
-Test deletion features
-Check layout alignment and responsiveness
-Confirm input validation worked properly
-Testing is critical because an app that compiles is not necessarily an app that works well. This process revealed issues such as layout misalignment, improper input handling, and logic errors. Addressing these early improved the overall stability and usability of the app.
-Innovation and Problem-Solving
-Throughout the design and development process, I had to adjust my approach when features did not function as expected. One challenge was ensuring that data updates were reflected correctly in the UI without confusing the user.
-Overcoming this required reworking layout structure and improving logic flow. This process strengthened my ability to troubleshoot and think through both technical and user-experience problems.
-Demonstration of Skills
-This project particularly demonstrates my ability to:
-Apply user-centered design principles
-Develop functional Android applications
-Implement structured coding practices
-Use testing and debugging effectively
-Plan for launch readiness
-The completed artifact reflects both technical implementation skills and thoughtful product design.
+Throughout the full design and development process—from planning to finalization—I encountered challenges that required thoughtful adjustments. One key challenge involved ensuring that user data updates were accurately reflected in the interface without disrupting the user experience. Addressing this required refining layout structure and improving logical flow within the application. This experience strengthened my troubleshooting skills and reinforced the importance of thinking from both a technical and user-centered perspective.
+
+This project particularly demonstrates my ability to apply user-centered design principles, implement structured coding practices, develop a functional Android application, and use systematic testing and debugging strategies. The completed artifact reflects growth not only in technical proficiency but also in understanding how to build a cohesive product ready for launch. The repository includes the completed app code design ZIP file and all required project components, and my instructor has been added as a collaborator in accordance with course requirements. This project represents an important milestone in my development as a mobile application developer and showcases my ability to design, build, test, and prepare an application for release.
+
